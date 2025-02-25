@@ -1,0 +1,22 @@
+*
+html {
+    margin: 0; 
+    padding: 0;
+}
+
+.prank {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    height: 95%;
+    width: 100%;
+}
+
+.ketawa {
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    height: 95%;
+    width: 100%;
+    background: none;
+} 
